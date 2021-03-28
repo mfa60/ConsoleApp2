@@ -8,8 +8,7 @@ namespace Matematik
         {
             DortIslem dortislem = new DortIslem();
             dortislem.Topla(3, 5);
-
-            Console.WriteLine();
+            
         }
     }
 }

@@ -25,7 +25,7 @@ namespace DegerVeReferansTipler
             referans veri tipleri heap de tutulur.
             new dediği anda heap de bir alan oluşturulur.
               dizileri biribirine eğiştlediğinde adres kopyalaması yapar
-            ve referans numaras değişir.
+            ve referans numaras değişir.*/
             Console.WriteLine("Hello World!");
         }
     }
